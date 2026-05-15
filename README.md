@@ -13,7 +13,7 @@
 # インストール方法
 1.このリポジトリをZIP形式でダウンロードし、ZIPファイルを右クリックし「すべて展開」を選択し、解凍します。
 
-2.Google Chrome または Microsoft Edge の拡張機能管理画面（chrome://extensions/ または edge://extensions/）を開きます。
+2.Google Chrome または Microsoft Edge の拡張機能管理画面（`chrome://extensions/`または`edge://extensions/`）を開きます。
 
 3.「デベロッパー モード」をオンにします。
 
